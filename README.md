@@ -4,3 +4,6 @@ requires 10 2x3x4 mm square LED's
 3/4" wide by 2-7/16" tall
 
 ![alt text](image/10_seg_bar_graph_large.png)
+
+
+[![Hits](https://hits.sh/github.com/MilesBDyson/3D-Printed-10_Segment_LED_Bar_Graph_Large.svg)](https://hits.sh/github.com/MilesBDyson/3D-Printed-10_Segment_LED_Bar_Graph_Large/)
